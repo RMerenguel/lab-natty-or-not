@@ -17,35 +17,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Saturno, uma viagem que a humanidade jamais esquecera. ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um video rapido mostrando a humanidade realizando a aproximação de Saturno com uma voz em Portugues descrevendo a viagem e a beleza do planeta.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Ferramenta HeyGen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevi um script detalhado: "Crie um video com audio ambiente espacial, de no maximo 4 minutos, de como seria se a humanidade visitasse o Planeta Saturno, os astronautas observando de um módulo o planeta bem de perto, ficando admirados com o planeta, com uma cena finalizando mostrando o planeta de longe juntamente com o modulo aproximado ao planeta". Em seguida a IA gerou o video em aproximadamente em 4 min e apresentou como saida o video em ótima qualidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Video
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+https://github.com/user-attachments/assets/2948cf45-015e-44ce-9efb-a76b4f7d948d
+
+Criado por: RMerenguel
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
